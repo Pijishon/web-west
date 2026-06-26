@@ -1,4 +1,4 @@
 # Мой проект
-* Это мой первый проект на GitHub!
+* Это мой второй проект на GitHub! ☺
 * [Приступлю к обучению здесь](https://practicum.yandex.ru/?utm_source=yandex&utm_medium=cpc&utm_campaign=Yan_Sch_RF_Common_Unde_b2c_Gener_None_Brand-1_460&utm_content=sty_search:s_none:cid_710467436:gid_5757852513:kw_---autotargeting:pid_205757852513:aid_1911882792853701848:crid_0:rid_205757852513:p_1:pty_premium:mty_:mkw_:dty_desktop:cgcid_0:rn_Санкт-Петербург:rid_2&utm_term=---autotargeting&etext=2202.eU43hJbf8IK2lHlx2_mzba09dmaYf_av94A1p-1bcMcTsQ96z1j4DNMu0BEX2a3YemZnYWZ4amRxY2psb2h1aQ.ad3933cd8d8cc8305c0f5428f88c16b2722be202&yclid=1563263883760631807)
 * Что же произойдет?
